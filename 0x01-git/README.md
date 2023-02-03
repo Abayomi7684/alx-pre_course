@@ -1,1 +1,1 @@
-my second Readme
+how_to_be_up_to_date_in_git_
